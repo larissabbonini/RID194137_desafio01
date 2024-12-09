@@ -27,3 +27,7 @@ HTML5: Estruturação do conteúdo da página.
 CSS: Para estilização, que deve ser configurada no arquivo style.css.
 Google Fonts: Fontes personalizadas Inter e Raleway.
 SheetMonkey API: O formulário de contato envia as informações para a API do SheetMonkey, permitindo o armazenamento de dados em uma planilha online.
+
+## Links 
+Link do site: https://desafio01-lp-dnc.netlify.app/
+Link da planilha: https://docs.google.com/spreadsheets/d/1pJX-pOQBE3kbWtmfrJWbed4NGcMeouGQgEJWOOaF-nc/edit?gid=0#gid=0
